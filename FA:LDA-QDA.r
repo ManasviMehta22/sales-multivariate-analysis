@@ -8,7 +8,7 @@ library(ggplot2)
 library(reshape2)
 
 # Load the dataset
-data <- read.csv("~/Desktop/MSc DS & AI/Manasvi/Sales_Product_Details.csv")
+data <- read.csv("Sales_Product_Details.csv")
 
 # Preprocessing
 # Filter for numeric columns only 
